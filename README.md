@@ -1,7 +1,7 @@
 # VOXEL
 Webcam-Based 3D Voxel / Cube Model Maker
 
-A gesture-controlled 3D voxel modeling system that allows users to create, place, delete, and manipulate 3D cubes in real time using only a webcam and hand gestures — no mouse, keyboard, or controller required.
+A gesture-controlled 3D voxel modeling system that allows users to create, place, delete, and manipulate 3D cubes in real time using only a webcam and hand gestures no mouse, keyboard, or controller required.
 
 This project explores the future of human–computer interaction (HCI) by combining computer vision, gesture recognition, and real-time 3D rendering.
 
@@ -66,6 +66,7 @@ MediaPipe – hand landmark & gesture detection
 PyOpenGL / Pygame – 3D rendering
 NumPy – mathematical operations
 PyQt (optional) – UI & overlays
+
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
