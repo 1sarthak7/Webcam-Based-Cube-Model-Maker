@@ -1,4 +1,4 @@
-# Webcam-Based-Cube-Model-Maker
+# VOXEL
 Webcam-Based 3D Voxel / Cube Model Maker
 
 A gesture-controlled 3D voxel modeling system that allows users to create, place, delete, and manipulate 3D cubes in real time using only a webcam and hand gestures — no mouse, keyboard, or controller required.
