@@ -74,7 +74,7 @@ PyQt (optional) – UI & overlays
 Copy code
 Bash
 
-git clone https://github.com/your-username/webcam-3d-voxel-maker.git
+git clone https://github.com/1Sarthak7/webcam-3d-voxel-maker.git
 cd webcam-3d-voxel-maker
 
 2️⃣ Create a virtual environment (recommended)
